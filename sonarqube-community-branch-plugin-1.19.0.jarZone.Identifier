@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/mc1arke/sonarqube-community-branch-plugin/releases
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/173807249/2cdcb51c-58ce-42b0-a312-be879a9592c7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240809%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240809T123116Z&X-Amz-Expires=300&X-Amz-Signature=6112b66c03602aedbc34989c8f2839cdd7573e36b0957f38e602e19de9d451b0&X-Amz-SignedHeaders=host&actor_id=5934229&key_id=0&repo_id=173807249&response-content-disposition=attachment%3B%20filename%3Dsonarqube-community-branch-plugin-1.19.0.jar&response-content-type=application%2Foctet-stream
